@@ -1,3 +1,5 @@
+<img src="./images/play.png" height="64px" width="64px"/>
+
 # AniConnect
 
 **Bringing Movie Enthusiasts Together with an AI-Driven Platform.**
